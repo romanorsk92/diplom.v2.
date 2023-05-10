@@ -1,0 +1,5 @@
+﻿﻿SQLAlchemy==1.4.42
+psycopg2==2.9.5
+requests==2.28.1
+vk-api==11.9.9
+pip==21.3.1
